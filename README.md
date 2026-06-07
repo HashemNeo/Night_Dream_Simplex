@@ -1,4 +1,4 @@
-# 🌌 KamaDream 🕯️
+# 🌌 Night Dream Simplex 🕯️
 
 > *Shatter the predictable rhythm of routine. Ignite the unspoken desires. Curate bespoke, deeply sensory itineraries for you and your lover—powered entirely in the shadows of your own machine.*
 
