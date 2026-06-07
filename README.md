@@ -16,7 +16,7 @@ Designed as a private sanctuary for couples, this application acts as your digit
 
 ---
 
-## ✨ Features to Set the Mood
+## ✨ Features to Be Implemented
 
 *   **🔮 Infinite Sensory Variations:** Say goodbye to the same old routine. Generate endless combinations of atmosphere, touch, anticipation, and play.
 *   **🔒 Absolute Local Privacy:** Your deepest fantasies belong to you alone. Because it runs on a local LLM, **zero data leaves your computer**. No cloud logging, no corporate tracking—just pure, unadulterated privacy.
