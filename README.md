@@ -2,7 +2,9 @@
 
 > *Shatter the predictable rhythm of routine. Ignite the unspoken desires. Curate bespoke, deeply sensory itineraries for you and your lover—powered entirely in the shadows of your own machine.*
 
-![KamaDream Night Planner Preview](assets/preview.gif)
+`<p align="center">`
+  `<img src="assets/Preview.gif" alt="Cortex GUI Dashboard Interface" width="100%">`
+`</p>`
 
 ---
 
